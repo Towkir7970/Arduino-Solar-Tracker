@@ -1,7 +1,5 @@
 # Arduino Solar Tracker with Environmental Monitoring
 
-![Arduino Solar Tracker](solar_tracker_banner.png)
-
 The Arduino Solar Tracker is a single-axis solar tracking system that automatically adjusts the position of a solar panel to maximize its exposure to sunlight throughout the day. Additionally, it features environmental monitoring using sensors such as LDR, DHT11, and a flame sensor for added safety and efficiency.
 
 ## 📝 Project Overview
